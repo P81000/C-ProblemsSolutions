@@ -101,5 +101,6 @@ int main(void)
     /* Saída */
     backtracking(vet1, vet2, 0, n);
     
+    system("PAUSE");
     return 0;
 }

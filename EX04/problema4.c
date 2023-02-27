@@ -23,5 +23,7 @@ int main(void)
     int N;
     scanf("%d", &N);
     printf("%d", get_count(N, 0) - 1);
+
+    system("PAUSE");
     return 0;
 }

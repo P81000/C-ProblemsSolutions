@@ -79,7 +79,7 @@ int main(void)
     free(mat);
     //
 
-    // system("PAUSE");
+    system("PAUSE");
 
     return 0;
 }
